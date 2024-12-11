@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v-harshithav\\source\\repos\\Dec\\BlazorWASM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD2F277-90AC-4A52-A23F-7B5DC2E94251}|BlazorWASM\\BlazorWASM.csproj|c:\\users\\v-harshithav\\source\\repos\\dec\\blazorwasm\\blazorwasm\\blazorwasm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCD2F277-90AC-4A52-A23F-7B5DC2E94251}|BlazorWASM\\BlazorWASM.csproj|solutionrelative:blazorwasm\\blazorwasm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD2F277-90AC-4A52-A23F-7B5DC2E94251}|BlazorWASM\\BlazorWASM.csproj|c:\\users\\v-harshithav\\source\\repos\\dec\\blazorwasm\\blazorwasm\\wwwroot\\resources\\mtd.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CCD2F277-90AC-4A52-A23F-7B5DC2E94251}|BlazorWASM\\BlazorWASM.csproj|solutionrelative:blazorwasm\\wwwroot\\resources\\mtd.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1390465396:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1225193912:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1932401047:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1518612074:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlazorWASM",
+              "DocumentMoniker": "C:\\Users\\v-harshithav\\source\\repos\\Dec\\BlazorWASM\\BlazorWASM\\BlazorWASM.csproj",
+              "RelativeDocumentMoniker": "BlazorWASM\\BlazorWASM.csproj",
+              "ToolTip": "C:\\Users\\v-harshithav\\source\\repos\\Dec\\BlazorWASM\\BlazorWASM\\BlazorWASM.csproj",
+              "RelativeToolTip": "BlazorWASM\\BlazorWASM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T15:01:16.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MTD.xml",
+              "DocumentMoniker": "C:\\Users\\v-harshithav\\source\\repos\\Dec\\BlazorWASM\\BlazorWASM\\wwwroot\\resources\\MTD.xml",
+              "RelativeDocumentMoniker": "BlazorWASM\\wwwroot\\resources\\MTD.xml",
+              "ToolTip": "C:\\Users\\v-harshithav\\source\\repos\\Dec\\BlazorWASM\\BlazorWASM\\wwwroot\\resources\\MTD.xml",
+              "RelativeToolTip": "BlazorWASM\\wwwroot\\resources\\MTD.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-11T14:58:55.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
